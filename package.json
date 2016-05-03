@@ -17,6 +17,7 @@
     "test": "test"
   },
   "dependencies": {
-    "node.extend": "^1.1.2"
+    "node.extend": "^1.1.2",
+    "serialport": "^3.0.1"
   }
 }
